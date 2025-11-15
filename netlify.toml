@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/坦克.html"
+status = 200
